@@ -8,7 +8,7 @@ HOW TO ADD IMAGE?
 
 HOW TO CHANGE TEXT?
 
-1. search for the <p> tag
-2. delete all inside the <p> and </p> 
-3. paste the text you want to use inside the <p> and </p>
+1. search for the p tag
+2. delete all inside the p tag
+3. paste the text you want to use inside the p tag
 4. paste it multiple times (I pasted mine 13 times)
